@@ -1,3 +1,9 @@
+/* Main styles */
+main {
+  margin-top: 20px;
+  min-height: calc(100vh - 150px); /* Adjust the value (150px) according to the combined height of the header and footer */
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -29,9 +35,6 @@ nav ul li a {
   font-weight: bold;
 }
 
-main {
-  margin-top: 20px;
-}
 
 .section-content p {
   line-height: 1.6;
