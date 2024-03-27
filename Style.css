@@ -5,6 +5,15 @@ body {
     background: linear-gradient(90deg, rgba(0, 123, 255, 1) 5%, rgba(255, 200, 0, 1) 64%);
   }
 
+.main-nav a {
+    color: black;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    float:left;
+}
+
   h1 {
     color: white;
   }
