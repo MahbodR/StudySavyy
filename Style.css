@@ -94,9 +94,9 @@ footer {
 }
 
 .footer-links a {
-  color: #fff;
+  color: blue; /* Change link color to blue */
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0 20px; /* Increase margin between links */
 }
 
 .social-icons {
@@ -142,6 +142,7 @@ footer {
     font-size: 14px;
   }
 }
+
 
   
   
