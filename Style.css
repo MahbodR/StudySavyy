@@ -125,7 +125,7 @@ footer {
   .card {
     padding: 10px;
     max-width: 90%;
-    margin: 0 auto;
+    margin: 20px auto;
   }
 
   .card h2 {
@@ -142,5 +142,6 @@ footer {
     font-size: 14px;
   }
 }
+
   
   
