@@ -70,12 +70,39 @@ main {
   background-color: #555;
 }
 
+/* Footer styles */
 footer {
   background-color: #333;
   color: #fff;
   text-align: center;
   padding: 20px 0;
+  width: 100%; /* Make the footer span the entire width */
+  position: fixed; /* Keep the footer fixed at the bottom */
+  bottom: 0; /* Position the footer at the bottom */
 }
+
+.footer-links {
+  margin-top: 20px;
+}
+
+.footer-links a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+.social-icons {
+  margin-top: 20px;
+}
+
+.social-icons a {
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 20px;
+}
+
 
 footer a {
   color: #fff;
