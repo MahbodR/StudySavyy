@@ -79,8 +79,8 @@ footer {
   background-color: #333;
   color: #fff;
   text-align: center;
-  padding: 10px 0; /* Adjust padding to reduce height */
   width: 100%;
+  hight: 100%;
   position: fixed;
   bottom: 0;
 }
